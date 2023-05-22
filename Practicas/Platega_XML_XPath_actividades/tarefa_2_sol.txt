@@ -1,0 +1,5 @@
+1) /equipos/máquina/@nome
+2) /equipos/máquina/hardware/gravadora/../../@nome
+también: /equipos/máquina/hardware/gravadora/ancestor::máquina/@nome
+3) /equipos/máquina/config/role/../OS
+
